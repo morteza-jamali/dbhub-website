@@ -1,0 +1,15 @@
+build
+*.log
+.lock-wscript
+.eslintcache
+node_modules
+.DS_Store
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+.idea
+npm-debug.log.*
+.vercel
